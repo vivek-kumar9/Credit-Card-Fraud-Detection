@@ -1,0 +1,8 @@
+Dataset: Credit Card Fraud Detection
+Source: Kaggle (European cardholders dataset)
+Transactions: 284,807
+Fraud Rate: ~0.17%
+
+Note:
+The dataset is not included in this repository due to size and licensing constraints.
+It can be downloaded directly from Kaggle.
